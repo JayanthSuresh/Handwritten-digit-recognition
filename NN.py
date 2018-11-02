@@ -53,6 +53,6 @@ for i in range (result.shape[0]):
 # Store Results
 res = {'ImageId' : range(1, result.shape[0]+1), 'Label' : predictions}
 df = pd.DataFrame(data=res)
-df.to_csv('CNN.csv', index = False)
+df.to_csv('NN.csv', index = False)
 
 print("Total execution time is : %s seconds" % (time.time() - start_time))
