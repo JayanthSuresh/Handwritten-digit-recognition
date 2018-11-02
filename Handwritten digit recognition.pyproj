@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f089f8d3-1753-4e0f-9587-18e9ddfa7a8e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SVM.py</StartupFile>
+    <StartupFile>NN.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
